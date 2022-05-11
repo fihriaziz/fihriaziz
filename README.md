@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fihriaziz
 - 👀 I’m interested web developer
 - 🌱 I’m currently learning programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me? Contact email fihriaziz@gmail.com
