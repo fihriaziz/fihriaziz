@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fihriaziz
 - 👀 I’m web developer
-- 🌱 I’m currently working as a web developer in my project
+- 🌱 I’m currently working as a web developer on personal projects
 - 📫 How to reach me? Contact email fihriaziz@gmail.com
